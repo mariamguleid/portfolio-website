@@ -36,10 +36,19 @@ const Skills = () => {
                   <p className='my-4'>C#</p>
               </div>
               <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
-                  <p className='my-4'>MySQL</p>
+                  <p className='my-4'>SQL</p>
               </div>
               <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
                   <p className='my-4'>Git</p>
+              </div>
+              <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
+                  <p className='my-4'>.NET Core</p>
+              </div>
+              <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
+                  <p className='my-4'>ASP.NET Core</p>
+              </div>
+              <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
+                  <p className='my-4'>PHP</p>
               </div>
           </div>
       </div>
